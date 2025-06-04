@@ -404,9 +404,9 @@ input, select, textarea {
 
     .html { width: 90%; background-color: #000000; }
     .css { width: 80%; background-color: #000000;}
-    .js { width: 55%; background-color:  #000000;}
-	.python { width: 45%; background-color:  #000000;}
-	.wordpress { width: 65%; background-color: #000000;}
+    .js { width: 60%; background-color:  #000000;}
+	.python { width: 50%; background-color:  #000000;}
+	.wordpress { width: 75%; background-color: #000000;}
     .sql { width: 65%; background-color: #000000;}
 	.C_Sharp { width: 60%; background-color: #000000;}
 
